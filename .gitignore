@@ -1,0 +1,21 @@
+# --- Maven ---
+target/
+!mvnw
+!mvnw.cmd
+
+# --- NetBeans ---
+nbproject/private/
+build/
+nb-configuration.xml
+
+# --- IntelliJ IDEA ---
+*.iml
+.idea/
+
+# --- Java ---
+*.class
+*.log
+
+# --- Sistema ---
+.DS_Store
+Thumbs.db
